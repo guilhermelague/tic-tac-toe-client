@@ -1,4 +1,4 @@
-# tic-tac-toe Client
+# Jogo da velha (Cliente)
 
 Esta é a parte cliente do jogo que desenvolvi como trabalho da disciplina de sistemas distribuidos.
 
